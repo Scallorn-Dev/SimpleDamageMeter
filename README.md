@@ -30,7 +30,7 @@ Click the **Install with Mod Manager** button on Thunderstore.
 
 ## ⚙️ Configuration
 
-All UI settings (position, size, reset hotkey) live in <BepInEx>/config/com.Judah.SimpleDamageMeter.cfg
+All UI settings (position, size, reset hotkey) live in <BepInEx>/config/Scallorn-Dev-Judah.SimpleDamageMeter
 
 This mod watches the file for changes—any edit + save will auto‑reload in‑game.  
 If you prefer a GUI, install [BepInEx.ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager).
