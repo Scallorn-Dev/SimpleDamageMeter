@@ -23,6 +23,7 @@ This mod uses a file‐watcher. If you edit the config file directly, it will au
 
 ---
 Github: https://github.com/Scallorn-Dev/SimpleDamageMeter
+---
 Discord: JudahRawkz
 
 
